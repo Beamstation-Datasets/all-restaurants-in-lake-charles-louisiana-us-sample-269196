@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Lake Charles, Louisiana. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Lake Charles, Louisiana, US",
+  "export_job_id": "ed04380b-7d5f-4c19-bafb-b5955c23f7af",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 269196,
+  "location_name": "Lake Charles",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lake-charles-louisiana-us-sample-269196",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/269196/beamstation_269196_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 39,
+  "sample_sha256": "2255cd0a4e80bc4f6e3e2bc7f98afe9d5be1499dabd758ae9e572c8da4f5a720",
+  "sample_size_bytes": 162883,
+  "total_records": 391,
+  "updated_at": "2026-04-09T12:10:15.277013+00:00"
+}

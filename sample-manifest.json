@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cbccd438-6f5c-4170-812c-f46f62330b30",
+  "export_job_id": "631c53ea-2f78-4634-9276-a79b93ee0026",
   "id_short": 269196,
-  "published_at": "2026-04-23T19:18:45Z",
+  "published_at": "2026-04-30T19:07:40Z",
   "repo_name": "all-restaurants-in-lake-charles-louisiana-us-sample-269196",
   "sample_asset_name": "beamstation_269196_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/269196/beamstation_269196_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "5fa6e26b5833d4d9a4c4ad7557f6b4dca6ebdda9a2b4ef1d6071dab5a7c376ad",
-  "sample_size_bytes": 138756,
-  "total_records": 333
+  "sample_records": 40,
+  "sample_sha256": "27b53907f8245a9941e3e4631a06b0da89509cedb7f91c625449c25effbf605d",
+  "sample_size_bytes": 135679,
+  "total_records": 407
 }

@@ -1,6 +1,6 @@
 # All Restaurants in Lake Charles, Louisiana, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `269196` |
 | Location | Lake Charles |
 | Category | Restaurants |
-| Full dataset size | 333 records |
-| Free sample size | 33 records (9.91%) |
-| Last export | 2026-04-23T11:32:52.720614+00:00 |
+| Full dataset size | 407 records |
+| Free sample size | 40 records (9.83%) |
+| Last export | 2026-04-30T11:39:39.445637+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lake-charles-louisiana-us-sample-269196/releases/download/sample-latest/beamstation_269196_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
